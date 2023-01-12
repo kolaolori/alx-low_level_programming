@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * print _to_98 - Prints all natural numbers form input to 98,
+ * print_to_98 - Prints all natural numbers form input to 98,
  * @n: The number to start counting from
  */
 void print_to_98(int n)
