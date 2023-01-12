@@ -15,8 +15,8 @@ int main(void)
 		fib1 = fib2;
 		fib2 = sum;
 		if (count == 49)
-			printf("\n")
+			printf("\n");
 		else
-			printf(", ")
+			printf(", ");
 	}
 }
